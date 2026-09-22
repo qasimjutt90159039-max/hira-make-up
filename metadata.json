@@ -1,0 +1,6 @@
+{
+  "name": "Hira Farooq Makeup Studio & Salon",
+  "description": "Premier luxury beauty salon and makeup studio in Gulshan-e-Iqbal, Karachi. Bridal & party makeup packages, hair styling & treatments, luxury facials, makeup products, and online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
